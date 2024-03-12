@@ -24,5 +24,11 @@ Mauricio Arellano
   
   En esta materia estamos aprendiendo acerca del analisis de los diferentes aspectos a tomar e3n cuenta al diseñar un juego y tambien estamos haciendo juegos y analizando cada detalle.
 
+  # _ProyectoApp_
+
+  Nombre del Docente:Sebastian mejia
+  
+  En esta materia estamos aprendiendo acerca de base de datos,diagramas de flujos y documentos de requerimientos para nuestros desarrollos.
+
 
 
