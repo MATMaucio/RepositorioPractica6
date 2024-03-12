@@ -18,6 +18,11 @@ Mauricio Arellano
   
   En esta materia estamos aprendiendo acerca de los principios del diseño grafico y todas las herramientas que nos ofrece photoshop para crear o diseñar imagenes.
 
+  # _Diseño de Juergos_
+
+  Nombre del Docente:Hector Guerrero
+  
+  En esta materia estamos aprendiendo acerca del analisis de los diferentes aspectos a tomar e3n cuenta al diseñar un juego y tambien estamos haciendo juegos y analizando cada detalle.
 
 
 
