@@ -30,5 +30,11 @@ Mauricio Arellano
   
   En esta materia estamos aprendiendo acerca de base de datos,diagramas de flujos y documentos de requerimientos para nuestros desarrollos.
 
+   # _Ingles_
+
+  Nombre del Docente:Alina
+   
+  En esta materia estamos aprendiendo y mejorando nuestro nivel de ingles a nivel gramatical, lectura, habla y escritura.
+
 
 
