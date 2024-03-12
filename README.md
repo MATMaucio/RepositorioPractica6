@@ -12,6 +12,12 @@ Mauricio Arellano
   
   En esta materia estamos aprendiendo acerca de los componentes de la computadora y como funcionaun sistema operativo y como diferentescosas dela vida diaria usando diferentes sistemas operativos.
 
+  # _Sistemas Operativos_
+
+  Nombre del Docente:Roberto Melo  
+  
+  En esta materia estamos aprendiendo acerca de los principios del diseño grafico y todas las herramientas que nos ofrece photoshop para crear o diseñar imagenes.
+
 
 
 
