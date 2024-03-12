@@ -12,7 +12,7 @@ Mauricio Arellano
   
   En esta materia estamos aprendiendo acerca de los componentes de la computadora y como funcionaun sistema operativo y como diferentescosas dela vida diaria usando diferentes sistemas operativos.
 
-  # _Sistemas Operativos_
+  # _Principios de Composicion y Diseño_
 
   Nombre del Docente:Roberto Melo  
   
