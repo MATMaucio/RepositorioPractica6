@@ -36,5 +36,7 @@ Mauricio Arellano
    
   En esta materia estamos aprendiendo y mejorando nuestro nivel de ingles a nivel gramatical, lectura, habla y escritura.
 
+ # _UPDATES_
 
+ Creando la version 1.0.0 de este repositorio
 
